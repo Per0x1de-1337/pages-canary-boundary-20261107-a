@@ -1,0 +1,5 @@
+title: Pages internal-boundary canary probe
+description: Benign GitHub bounty canary probe
+theme: null
+kramdown:
+  forbidden_inline_options: []
